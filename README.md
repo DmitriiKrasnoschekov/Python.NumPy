@@ -1,2 +1,2 @@
 # Python.NumPy
-NumPy Basicks
+NumPy Basics
